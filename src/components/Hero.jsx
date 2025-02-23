@@ -1,4 +1,4 @@
-import profilePic from "../assets/Profile.jpg";
+import profilePic from "../assets/Profile1.jpeg";
 import {motion} from "framer-motion"
 import { HERO_CONTENT } from "../constants";
 import resume from "../assets/Sahil_Dixit_Resume.pdf"
